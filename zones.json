@@ -293,7 +293,7 @@
     },
     {
         "id": 26,
-        "name": "Geometry Dash Breeze",
+        "name": "Geometry Dash Breeze (Unity)",
         "cover": "{HTML_URL}mga-unity@main/geometry-dash-breeze/icon.png",
         "url": "{HTML_URL}mga-unity@main/geometry-dash-breeze/index.html",
         "author": "Unknown Developer",
@@ -304,7 +304,7 @@
     },
     {
         "id": 27,
-        "name": "Geometry Dash Meltdown",
+        "name": "Geometry Dash Meltdown (Unity)",
         "cover": "{HTML_URL}mga-unity@main/geometry-dash-meltdown/icon.png",
         "url": "{HTML_URL}mga-unity@main/geometry-dash-meltdown/index.html",
         "author": "Unknown Developer",
