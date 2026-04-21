@@ -43,7 +43,7 @@
         "name": "Geometry Dash SubZero (Unity)",
         "cover": "{HTML_URL}mga-unity@main/geometry-dash-subzero/icon.png",
         "url": "{HTML_URL}mga-unity@main/geometry-dash-subzero/index.html",
-        "author": "RobTop",
+        "author": "GeometryLite.io",
         "authorLink": "https://geometrydash.com/",
         "special": [
             "Unity"
@@ -320,6 +320,28 @@
         "url": "{HTML_URL}mga-unity@main/geometry-dash-bloodbath/index.html",
         "author": "Unknown Developer",
         "authorLink": "https://marty-games.github.io/",
+        "special": [
+            "Unity"
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Geometry Dash Lite",
+        "cover": "{HTML_URL}mga-unity@main/geometry-dash-lite/icon.png",
+        "url": "{HTML_URL}mga-unity@main/geometry-dash-lite/index.html",
+        "author": "Unknown Developer",
+        "authorLink": "https://marty-games.github.io/",
+        "special": [
+            "Unity"
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Geometry Lite",
+        "cover": "{HTML_URL}mga-unity@main/geometry-lite-classic/icon.png",
+        "url": "{HTML_URL}mga-unity@main/geometry-lite-classic/index.html",
+        "author": "GeometryLite.io",
+        "authorLink": "https://geometrydash.com/",
         "special": [
             "Unity"
         ]
