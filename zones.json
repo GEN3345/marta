@@ -290,5 +290,38 @@
         "special": [
             "Apps"
         ]
+    },
+    {
+        "id": 26,
+        "name": "Geometry Dash Breeze",
+        "cover": "{HTML_URL}mga-unity@main/geometry-dash-breeze/icon.png",
+        "url": "{HTML_URL}mga-unity@main/geometry-dash-breeze/index.html",
+        "author": "Unknown Developer",
+        "authorLink": "https://marty-games.github.io/",
+        "special": [
+            "Apps"
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Geometry Dash Meltdown",
+        "cover": "{HTML_URL}mga-unity@main/geometry-dash-meltdown/icon.png",
+        "url": "{HTML_URL}mga-unity@main/geometry-dash-meltdown/index.html",
+        "author": "Unknown Developer",
+        "authorLink": "https://marty-games.github.io/",
+        "special": [
+            "Apps"
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Geometry Dash Bloodbath",
+        "cover": "{HTML_URL}mga-unity@main/geometry-dash-bloodbath/icon.png",
+        "url": "{HTML_URL}mga-unity@main/geometry-dash-bloodbath/index.html",
+        "author": "Unknown Developer",
+        "authorLink": "https://marty-games.github.io/",
+        "special": [
+            "Apps"
+        ]
     }
 ]
