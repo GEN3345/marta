@@ -345,5 +345,16 @@
         "special": [
             "Unity"
         ]
+    },
+    {
+        "id": 31,
+        "name": "Minecraft Pocket Edition",
+        "cover": "{HTML_URL}mga-unithtml5y@main/minecraft-pocket-edition/icon.png",
+        "url": "{HTML_URL}mga-html5@main/minecraft-pocket-edition/index.html",
+        "author": "Mojang",
+        "authorLink": "https://minecraft.net/",
+        "special": [
+            "HTML5"
+        ]
     }
 ]
