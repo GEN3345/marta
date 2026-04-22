@@ -966,7 +966,13 @@
 
         function downloadZone() {
             let zone = zones.find(zone => zone.id + '' === document.getElementById('zoneId').textContent);
-            fetch(zone.url.replace("{HTML_URL}", htmlURL) + "?t=" + Date.now()).then(res => res.text()).then(text => {
+            const url = zone.url
+                .replace("{GITHACK_URL}", githackURL)
+                .replace("{JSDELIVR_URL}", jsdelivrURL)
+                .replace("{HTML_URL}", htmlURL)
+                .replace("{COVER_URL}", coverURL);
+
+            fetch(url + "?t=" + Date.now()).then(res => res.text()).then(text => {
                 const blob = new Blob([text], {
                     type: "text/plain;charset=utf-8"
                 });
