@@ -42,13 +42,19 @@ marty-games.github.io(root)/
 ├─ index.html           # Homepage
 ├─ zones.json           # Stores game card data
 ├─ style.css            # Stylesheets for the site
-├─ about.html           # About Us page
-├─ embed/               # Game and app files live here
-├─ community/           # Future community chat and more
+├─ embed.html           # Auto-Updating embed code for external usage
 ├─ favicon.ico          # Website icon
 └─ /.github/README.md   # This file
 ```
 Note: this only shows the more important files in the repository.
+---
+
+## Creators
+
+- [Martin_MMC](https://github.com/martinmmcyt)
+  
+- [Drag00nKnight999](https://github.com/drag00nknight999)
+
 ---
 
 # Built With
@@ -85,8 +91,3 @@ Please follow the repository structure when adding new content.
 
 ---
 
-# Update Log
-
-- March 14th 2026: Added this file. Working on community chat.
-
----
