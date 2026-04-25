@@ -356,5 +356,170 @@
         "special": [
             "HTML5"
         ]
+    },
+    {
+        "id": 32,
+        "name": "Eaglercraft 1.12.2",
+        "cover": "{HTML_URL}mga-html5@main/eaglercraft-1.12.2/icon.png",
+        "url": "{HTML_URL}mga-html5@main/eaglercraft-1.12.2/index.html",
+        "author": "lax1dude",
+        "authorLink": "https://eaglercraft.com/",
+        "special": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Eaglercraft 1.5.2",
+        "cover": "{HTML_URL}mga-html5@main/eaglercraft-1.5.2/icon.png",
+        "url": "{HTML_URL}mga-html5@main/eaglercraft-1.5.2/index.html",
+        "author": "lax1dude",
+        "authorLink": "https://eaglercraft.com/",
+        "special": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Eaglercraft 1.8.8",
+        "cover": "{HTML_URL}mga-html5@main/eaglercraft-1.8.8/icon.png",
+        "url": "{HTML_URL}mga-html5@main/eaglercraft-1.8.8/index.html",
+        "author": "lax1dude",
+        "authorLink": "https://eaglercraft.com/",
+        "special": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Eaglercraft Beta 1.3",
+        "cover": "{HTML_URL}mga-html5@main/eaglercraft-beta-1.3/icon.png",
+        "url": "{HTML_URL}mga-html5@main/eaglercraft-beta-1.3/index.html",
+        "author": "lax1dude",
+        "authorLink": "https://eaglercraft.com/",
+        "special": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Eaglercraft Beta 1.7.3",
+        "cover": "{HTML_URL}mga-html5@main/eaglercraft-beta-1.7.3/icon.png",
+        "url": "{HTML_URL}mga-html5@main/eaglercraft-beta-1.7.3/index.html",
+        "author": "lax1dude",
+        "authorLink": "https://eaglercraft.com/",
+        "special": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Eaglercraft Alpha 1.2.6",
+        "cover": "{HTML_URL}mga-html5@main/eaglercraft-alpha-1.2.6/icon.png",
+        "url": "{HTML_URL}mga-html5@main/eaglercraft-alpha-1.2.6/index.html",
+        "author": "lax1dude",
+        "authorLink": "https://eaglercraft.com/",
+        "special": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Eaglercraft Indev",
+        "cover": "{HTML_URL}mga-html5@main/eaglercraft-indev/icon.png",
+        "url": "{HTML_URL}mga-html5@main/eaglercraft-indev/index.html",
+        "author": "lax1dude",
+        "authorLink": "https://eaglercraft.com/",
+        "special": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Minecraft 1.12.2",
+        "cover": "{HTML_URL}mga-html5@main/eaglercraft-1.12.2/icon.png",
+        "url": "{HTML_URL}mga-html5@main/eaglercraft-1.12.2/index.html",
+        "author": "lax1dude",
+        "authorLink": "https://eaglercraft.com/",
+        "special": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Minecraft 1.5.2",
+        "cover": "{HTML_URL}mga-html5@main/eaglercraft-1.5.2/icon.png",
+        "url": "{HTML_URL}mga-html5@main/eaglercraft-1.5.2/index.html",
+        "author": "lax1dude",
+        "authorLink": "https://eaglercraft.com/",
+        "special": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Minecraft 1.8.8",
+        "cover": "{HTML_URL}mga-html5@main/eaglercraft-1.8.8/icon.png",
+        "url": "{HTML_URL}mga-html5@main/eaglercraft-1.8.8/index.html",
+        "author": "lax1dude",
+        "authorLink": "https://eaglercraft.com/",
+        "special": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Minecraft Beta 1.3",
+        "cover": "{HTML_URL}mga-html5@main/eaglercraft-beta-1.3/icon.png",
+        "url": "{HTML_URL}mga-html5@main/eaglercraft-beta-1.3/index.html",
+        "author": "lax1dude",
+        "authorLink": "https://eaglercraft.com/",
+        "special": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Minecraft Beta 1.7.3",
+        "cover": "{HTML_URL}mga-html5@main/eaglercraft-beta-1.7.3/icon.png",
+        "url": "{HTML_URL}mga-html5@main/eaglercraft-beta-1.7.3/index.html",
+        "author": "lax1dude",
+        "authorLink": "https://eaglercraft.com/",
+        "special": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Minecraft Alpha 1.2.6",
+        "cover": "{HTML_URL}mga-html5@main/eaglercraft-alpha-1.2.6/icon.png",
+        "url": "{HTML_URL}mga-html5@main/eaglercraft-alpha-1.2.6/index.html",
+        "author": "lax1dude",
+        "authorLink": "https://eaglercraft.com/",
+        "special": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Minecraft Indev",
+        "cover": "{HTML_URL}mga-html5@main/eaglercraft-indev/icon.png",
+        "url": "{HTML_URL}mga-html5@main/eaglercraft-indev/index.html",
+        "author": "lax1dude",
+        "authorLink": "https://eaglercraft.com/",
+        "special": [
+            "HTML5"
+        ]
+    },
+    {
+        "id": 45,
+        "name": "CloudMoon",
+        "cover": "{HTML_URL}mga-apps@main/cloudmoon/icon.png",
+        "url": "{HTML_URL}mga-apps@main/cloudmoon/index.html",
+        "author": "Nenly Limited",
+        "authorLink": "https://hk.linkedin.com/company/nenly",
+        "special": [
+            "Apps"
+        ]
     }
 ]
