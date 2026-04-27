@@ -1,9 +1,9 @@
 {
   "name": "Marty Games",
-  "short_name": "MGA",
+  "short_name": "MG",
   "start_url": "/",
   "display": "standalone",
-  "description": "Marty-Games. Your #1 free game hub.",
+  "description": "Marty Games — Your #1 free game hub.",
   "background_color": "#0A1D37",
   "theme_color": "#0A1D37",
   "icons": [
