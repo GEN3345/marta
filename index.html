@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <base href="https://cdn.jsdelivr.net/gh/marty-games/marty-games.github.io@main/">
+    <base href="https://fastly.jsdelivr.net/gh/marty-games/marty-games.github.io@main/">
     <link rel="icon" type="image/png" href="favicon.ico">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon.ico">
     <link rel="apple-touch-icon" href="favicon.ico">
@@ -651,8 +651,9 @@
         }
     </style>
 </head>
+<!-- Service Worker -->
 <script>
-if ("serviceWorker" in navigator) {
+if ("serviceWorker" in navigator && location.hostname === "marty-games.github.io") {
   window.addEventListener("load", () => {
     navigator.serviceWorker.register("service-worker.js")
       .then(reg => console.log("Service Worker registered"))
@@ -660,6 +661,7 @@ if ("serviceWorker" in navigator) {
   });
 }
 </script>
+    
 <body class="dark-mode">
     <header>
         <div class="header-content">
@@ -744,7 +746,10 @@ if ("serviceWorker" in navigator) {
         const zonesurls = [
             "https://cdn.jsdelivr.net/gh/marty-games/marty-games.github.io@latest/zones.json",
             "https://cdn.jsdelivr.net/gh/marty-games/marty-games.github.io@main/zones.json",
-            "https://cdn.jsdelivr.net/gh/marty-games/marty-games.github.io/zones.json"
+            "https://cdn.jsdelivr.net/gh/marty-games/marty-games.github.io/zones.json",
+            "https://fastly.jsdelivr.net/gh/marty-games/marty-games.github.io@latest/zones.json",
+            "https://fastly.jsdelivr.net/gh/marty-games/marty-games.github.io@main/zones.json",
+            "https://fastly.jsdelivr.net/gh/marty-games/marty-games.github.io/zones.json"
         ];
         let zonesURL = zonesurls[Math.floor(Math.random() * zonesurls.length)];
         const coverURL = "https://cdn.jsdelivr.net/gh/marty-games/";
